@@ -35,3 +35,4 @@ npm run build
 ```sh
 npm run lint
 ```
+You also need to instal LLM studio and install qwen in LLM studio to make this works
